@@ -23,6 +23,10 @@
 
 ## `whoami`
 
+<table>
+<tr>
+<td valign="top" width="65%">
+
 > *Turning caffeine and curiosity into working software — one commit at a time.*
 
 Hey, I'm **Zuhud** — an Information Systems undergrad at UIN Syarif Hidayatullah Jakarta who genuinely enjoys the intersection of design, code, and product thinking. I like building things that feel good to use, not just things that work.
@@ -37,6 +41,13 @@ open_to     : Collaboration, open-source, cool ideas
 certified   : Scrum Fundamentals (SFC™)
 vibe        : ☕ chill but always shipping
 ```
+
+</td>
+<td valign="center" width="35%" align="center">
+  <img src="scarlet_devil.gif" width="220" alt="Scarlet Devil" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -90,9 +101,9 @@ vibe        : ☕ chill but always shipping
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zuhudq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuhud-qolbu-adi-230767316/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zuhudq)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](zuhudqolbu@gmail.com)
 
 </div>
 
