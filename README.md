@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="queen-dark-knight.gif" width="100%" alt="Banner" style="border-radius: 12px;" />
+<img src="queen-dark-knight.gif" width="100%" alt="Banner" />
 
-<br/>
 <br/>
 
 ```
@@ -121,14 +120,6 @@ vibe        : ☕ chill but always shipping
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zuhudq/zuhudq/output/github-contribution-grid-snake.svg">
     <img alt="contribution snake" src="https://raw.githubusercontent.com/zuhudq/zuhudq/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
----
-
-## `trophy --show`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zuhudq&theme=tokyonight&no-frame=false&no-bg=false&column=7&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 </div>
 
 ---
